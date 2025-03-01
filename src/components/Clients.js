@@ -1,7 +1,7 @@
 import React from 'react';
 import kws from '../images/clients/logo2.jpeg';
 import geps from '../images/clients/logo3.png';
-import Logo from '../images/clients/logo3.png';
+import Logo from '../images/clients/logo4.jpeg';
 
 const clientImage = {
     height: '10rem',
@@ -28,7 +28,7 @@ const Clients = () => {
                         </div>
 
                         <div style={clientImage} className="overflow-hidden p-3 flex justify-center transition-all ease-in-out opacity-50 hover:opacity-100">
-                            <img src={protergia} alt="client" />                            
+                            <img src={Logo} alt="client" />                            
                         </div> 
 
                         <div style={clientImage} className="overflow-hidden p-3 flex justify-center transition-all ease-in-out opacity-50 hover:opacity-100">
