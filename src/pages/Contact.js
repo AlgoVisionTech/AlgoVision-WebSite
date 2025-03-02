@@ -7,11 +7,7 @@ import axios from 'axios';
 import Notiflix from 'notiflix';
 
 const Contact = () => {
-<<<<<<< HEAD
-    useDocTitle('MLD | Molad e Konsult - Send us a message')
-=======
     useDocTitle('AlgoVision Technologies')
->>>>>>> 2c5d9434b9a97ee75ef3efe9414cf7c858fe2aca
     const [firstName, setFirstName] = useState('')
     const [lastName, setLastName] = useState('')
     const [email, setEmail] = useState('')
