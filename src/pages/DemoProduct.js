@@ -8,7 +8,11 @@ import Notiflix from 'notiflix';
 
 const DemoProduct = (props) => {
 
+<<<<<<< HEAD
     useDocTitle('MLD | Molad e Konsult - Demo our products')
+=======
+    useDocTitle('AlgoVision Technologies')
+>>>>>>> 2c5d9434b9a97ee75ef3efe9414cf7c858fe2aca
 
     const [firstName, setFirstName] = useState('')
     const [lastName, setLastName] = useState('')
