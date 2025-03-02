@@ -30,13 +30,9 @@ function App() {
     });
   }, []);
 
-<<<<<<< HEAD
-  useDocTitle("MLD | Molad e Konsult - Bespoke Web and Mobile Applications");
-=======
   useDocTitle("AlgoVision Technologies");
->>>>>>> 2c5d9434b9a97ee75ef3efe9414cf7c858fe2aca
 
-  return (
+  return (  
     <>
       <Router>
         <ScrollToTop>
